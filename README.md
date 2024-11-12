@@ -1,6 +1,6 @@
 - 👋 Hi, I am Explorer.
-- 👀 I am a primer in both Git and Github, also poor in English...
-- 💞️ In fact, I stuggle with math every day...
+- 👀 I am an Amateur programming enthusiast, 
+- 💞️ I mainly use C++ and have some knowledge of Golang and other programming or non programming languages.
 - 🌱 Emmm..let's make progress together!!
 <!---
 - 👋 Hi, I’m @ExplorerSec
