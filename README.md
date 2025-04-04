@@ -1,6 +1,7 @@
-- 👋 Hi, I am Explorer.
+- 👋 Hi, I am Exp1or3r.
 - 👀 I am an Amateur programming enthusiast, interested in Game Reverse, WindowsAPI, Driver development and so on.
 - 💞️ I mainly use WinAPI style C++ and have some knowledge of many other programming or non programming languages.
+- 📫 A Rust Beginner, interested in writing OS demo and so on.
 - 🌱 Emmm..let's make progress together!!
 <!---
 - 👋 Hi, I’m @ExplorerSec
